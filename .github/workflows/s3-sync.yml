@@ -21,4 +21,4 @@ jobs:
 
       - name: Upload files to S3
         run: |
-          aws s3 sync ./hdlite  s3://hdprobucket
+          aws s3 sync ./hdlite  s3://hdprobucket65GI
